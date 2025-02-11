@@ -1,6 +1,6 @@
 import unittest
 import math
-from signal_detection import SignalDetection  # Adjust this import as needed for your project structure
+from SignalDetection import SignalDetection  # Adjust this import as needed for your project structure
 
 class TestSignalDetectionAdditional(unittest.TestCase):
     def test_hit_rate_at_upper_bound(self):
