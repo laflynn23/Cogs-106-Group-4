@@ -1,5 +1,5 @@
 import unittest
-from signal_detection import SignalDetection  # ✅ Make sure this is correct
+from signal_detection import SignalDetection
 
 class TestSignalDetection(unittest.TestCase):
     def test_d_prime_zero(self):
